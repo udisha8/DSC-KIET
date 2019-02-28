@@ -29,7 +29,7 @@
                     >
 
                     <ImageView
-                        android:id="@+id/imgDashboard"
+                        android:id="@+id/imgAttendance"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="2dp"
@@ -38,7 +38,7 @@
                         android:src="@drawable/ic_attendance" />
 
                     <TextView
-                        android:id="@+id/textDashboard"
+                        android:id="@+id/textAttendance"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:gravity="center_horizontal"
